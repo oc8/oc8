@@ -2,7 +2,7 @@
 
 ## Skills
 #### Languages:
-[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,python,dart)](#)
+[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,python,dart,nodejs)](#)
 
 #### Front-End Development:
 [![front](https://skillicons.dev/icons?i=vue,angular,electron,vite,flutter)](#)
