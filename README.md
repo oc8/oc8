@@ -2,7 +2,7 @@
 
 ## Skills
 #### Languages:
-[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,python,dart)](#)
+[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,rust,python,dart)](#)
 
 #### Front-End Development:
 [![front](https://skillicons.dev/icons?i=vue,angular,electron,vite,flutter)](#)
@@ -11,7 +11,7 @@
 [![back](https://skillicons.dev/icons?i=django,express,nodejs,nest,firebase,postgresql)](#)
 
 #### Softwares and Tools:
-[![tools](https://skillicons.dev/icons?i=git,docker,github,vscode,figma)](#)
+[![tools](https://skillicons.dev/icons?i=git,docker,aws,azure,github,vscode,figma)](#)
 
 ## Stats
 ![oc8 Stats](https://github-readme-stats.vercel.app/api?username=oc8)
