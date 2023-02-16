@@ -5,7 +5,7 @@
 [![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,rust,html,css,python,dart)](#)
 
 #### Front-End Development:
-[![front](https://skillicons.dev/icons?i=vue,angular,electron,vite,flutter)](#)
+[![front](https://skillicons.dev/icons?i=vue,electron,vite,flutter)](#)
 
 #### Back-End Development:
 [![back](https://skillicons.dev/icons?i=django,actix,express,nodejs,nest,firebase,postgresql)](#)
