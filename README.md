@@ -8,7 +8,7 @@
 [![front](https://skillicons.dev/icons?i=vue,electron,vite,flutter)](#)
 
 #### Back-End Development:
-[![back](https://skillicons.dev/icons?i=django,actix,express,nodejs,nest,firebase,postgresql)](#)
+[![back](https://skillicons.dev/icons?i=django,actix,express,nodejs,nest,postgresql)](#)
 
 #### Softwares and Tools:
 [![tools](https://skillicons.dev/icons?i=git,docker,github,aws,azure,vscode,figma)](#)
