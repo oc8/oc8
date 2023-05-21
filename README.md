@@ -11,7 +11,7 @@
 [![back](https://skillicons.dev/icons?i=django,actix,express,nodejs,nest,postgresql)](#)
 
 #### Softwares and Tools:
-[![tools](https://skillicons.dev/icons?i=git,docker,github,aws,azure,vscode,figma)](#)
+[![tools](https://skillicons.dev/icons?i=git,docker,github,aws,vscode,figma)](#)
 
 ## Stats
 <!--
