@@ -13,11 +13,13 @@
 #### Softwares and Tools:
 [![tools](https://skillicons.dev/icons?i=git,docker,github,aws,vscode,figma)](#)
 
-## Stats
+<!-- ## Stats -->
 <!--
 [![oc8's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oc8)](#)
 -->
+<!--
 [![oc8 Stats](https://github-readme-stats.vercel.app/api?username=oc8)](#)
+-->
 
 ## Contact
 [![social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oceandroz)
