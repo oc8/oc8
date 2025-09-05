@@ -2,16 +2,16 @@
 
 ## Skills
 #### Languages:
-[![languages](https://skillicons.dev/icons?i=rust,python,ts,html,css,c,cpp,dart)](#)
+[![languages](https://skillicons.dev/icons?i=rust,go,ts,html,css,c,cpp,dart,python)](#)
 
 #### Front-End Development:
-[![front](https://skillicons.dev/icons?i=nuxt,vue,electron,vite,flutter)](#)
+[![front](https://skillicons.dev/icons?i=nuxt,vue,tauri,flutter,tailwind)](#)
 
 #### Back-End Development:
 [![back](https://skillicons.dev/icons?i=django,actix,postgresql)](#)
 
 #### Softwares and Tools:
-[![tools](https://skillicons.dev/icons?i=git,docker,github,vercel,vscode,figma)](#)
+[![tools](https://skillicons.dev/icons?i=git,docker,github,vscode,figma)](#)
 
 <!-- ## Stats -->
 <!--
